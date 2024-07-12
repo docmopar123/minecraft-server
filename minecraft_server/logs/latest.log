@@ -1,0 +1,84 @@
+[19:57:55] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Remapping plugin 'plugins/SimpleTpa.jar'...
+[19:57:55] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Remapping plugin 'plugins/spark-1.10.74-bukkit.jar'...
+[19:57:56] [Paper Plugin Remapper Thread - 2/INFO]: [PluginRemapper] Done remapping plugin 'plugins/SimpleTpa.jar' in 664ms.
+[19:57:57] [Paper Plugin Remapper Thread - 3/INFO]: [PluginRemapper] Done remapping plugin 'plugins/spark-1.10.74-bukkit.jar' in 1677ms.
+[19:58:01] [ServerMain/INFO]: Environment: Environment[sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[19:58:02] [ServerMain/INFO]: Loaded 1175 recipes
+[19:58:03] [ServerMain/INFO]: Loaded 1276 advancements
+[19:58:03] [Server thread/INFO]: Starting minecraft server version 1.20.6
+[19:58:03] [Server thread/INFO]: Loading properties
+[19:58:03] [Server thread/INFO]: This server is running Paper version 1.20.6-148-ver/1.20.6@20f5165 (2024-07-02T15:37:33Z) (Implementing API version 1.20.6-R0.1-SNAPSHOT)
+[19:58:04] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[19:58:04] [Server thread/INFO]: Using 4 threads for Netty based IO
+[19:58:04] [Server thread/WARN]: [!] The timings profiler has been enabled but has been scheduled for removal from Paper in the future.
+    We recommend installing the spark profiler as a replacement: https://spark.lucko.me/
+    For more information please visit: https://github.com/PaperMC/Paper/issues/8948
+[19:58:04] [Server thread/INFO]: [ChunkTaskScheduler] Chunk system is using 1 I/O threads, 1 worker threads, and gen parallelism of 1 threads
+[19:58:04] [Server thread/INFO]: Default game type: SURVIVAL
+[19:58:04] [Server thread/INFO]: Generating keypair
+[19:58:04] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:58:05] [Server thread/INFO]: Using epoll channel type
+[19:58:05] [Server thread/INFO]: Paper: Using libdeflate (Linux x86_64) compression from Velocity.
+[19:58:05] [Server thread/INFO]: Paper: Using OpenSSL 1.1.x (Linux x86_64) cipher from Velocity.
+[19:58:05] [Server thread/INFO]: [Geyser-Spigot] Loading server plugin Geyser-Spigot v2.4.0-SNAPSHOT
+[19:58:05] [Server thread/WARN]: [Geyser-Spigot] Missing locale: en_
+[19:58:07] [Server thread/INFO]: [Geyser-Spigot] Loading extensions...
+[19:58:07] [Server thread/INFO]: [Geyser-Spigot] Loaded 0 extension(s)
+[19:58:07] [Server thread/INFO]: [spark] Loading server plugin spark v1.10.74
+[19:58:07] [Server thread/INFO]: [SimpleTpa] Loading server plugin SimpleTpa v7.1
+[19:58:07] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[19:58:07] [Server thread/INFO]: Preparing level "world"
+[19:58:07] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:58:08] [Server thread/INFO]: Time elapsed: 1115 ms
+[19:58:08] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[19:58:09] [Server thread/INFO]: Time elapsed: 152 ms
+[19:58:09] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[19:58:09] [Server thread/INFO]: Time elapsed: 140 ms
+[19:58:09] [Server thread/INFO]: [Geyser-Spigot] Enabling Geyser-Spigot v2.4.0-SNAPSHOT
+[19:58:09] [Server thread/INFO]: [spark] Enabling spark v1.10.74
+[19:58:09] [Server thread/INFO]: [spark] Using Paper ServerTickStartEvent for tick monitoring
+[19:58:09] [Server thread/INFO]: [spark] Starting background profiler...
+[19:58:10] [Server thread/INFO]: [SimpleTpa] Enabling SimpleTpa v7.1
+[19:58:10] [Server thread/INFO]: [SimpleTpa] If you need support contact me at https://discord.gg/SZUkza9
+[19:58:10] [Server thread/INFO]: [SimpleTpa] Simple Tpa has been enabled on version 7.1
+[19:58:10] [Server thread/INFO]: Enabled metrics. You may opt-out by changing plugins/bStats/config.yml
+[19:58:10] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:58:10] [Server thread/INFO]: [Geyser-Spigot] 
+[19:58:10] [Server thread/INFO]: [Geyser-Spigot] Loading Geyser version 2.4.0-b600 (git-master-93b0a61)
+[19:58:10] [Server thread/INFO]: [Geyser-Spigot] 
+[19:58:10] [Server thread/INFO]: [Geyser-Spigot] ******************************************
+[19:58:16] [epollEventLoopGroup-3-1/INFO]: [Geyser-Spigot] Started Geyser on 0.0.0.0:19132
+[19:58:16] [Server thread/INFO]: [Geyser-Spigot] Done (5.734s)! Run /geyser help for help!
+[19:58:16] [Server thread/WARN]: [Geyser-Spigot] Your server software does not support the Java version that Geyser requires (1.21). Please install ViaVersion (https://ci.viaversion.com/job/ViaVersion/) or update your server software!
+[19:58:16] [Server thread/INFO]: Running delayed init tasks
+[19:58:16] [Server thread/INFO]: Done (13.197s)! For help, type "help"
+[19:58:16] [Server thread/INFO]: Timings Reset
+[19:58:16] [ForkJoinPool.commonPool-worker-3/WARN]: [Geyser-Spigot] Missing MC locale file: en_us
+[19:58:16] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Downloading Minecraft JAR to extract required files, please wait... (this may take some time depending on the speed of your internet connection)
+[19:58:17] [ForkJoinPool.commonPool-worker-3/INFO]: [Geyser-Spigot] Minecraft JAR has been successfully downloaded and loaded!
+[19:59:27] [Server thread/INFO]: ---- Showing Help For: Geyser (Page 1/1) ----
+[19:59:27] [Server thread/INFO]: /geyser ?: Shows help for all registered commands.
+[19:59:27] [Server thread/INFO]: /geyser connectiontest: geyser.commands.connectiontest.desc
+[19:59:27] [Server thread/INFO]: /geyser dump: Dumps Geyser debug information for bug reports.
+[19:59:27] [Server thread/INFO]: /geyser help: Shows help for all registered commands.
+[19:59:27] [Server thread/INFO]: /geyser list: List all players connected through Geyser.
+[19:59:27] [Server thread/INFO]: /geyser reload: Reloads the Geyser configurations. Kicks all players when used!
+[19:59:27] [Server thread/INFO]: /geyser version: Shows the current Geyser version and checks for updates.
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡] TPS from last 5s, 10s, 1m, 5m, 15m:
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡]  20.0, 20.0, *20.0, *20.0, *20.0
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡] 
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡] Tick durations (min/med/95%ile/max ms) from last 10s, 1m:
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡]  0.0/0.1/0.2/2.4;  0.0/0.1/0.2/2.4
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡] 
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡] CPU usage from last 10s, 1m, 15m:
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡]  4%, 4%, 6%  (system)
+[20:10:10] [Craft Scheduler Thread - 4 - spark/INFO]: [⚡]  1%, 1%, 2%  (process)
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡] TPS from last 5s, 10s, 1m, 5m, 15m:
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡]  *20.0, 20.0, 20.0, 20.0, *20.0
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡] 
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡] Tick durations (min/med/95%ile/max ms) from last 10s, 1m:
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡]  0.0/0.1/0.2/0.3;  0.0/0.1/0.2/0.5
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡] 
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡] CPU usage from last 10s, 1m, 15m:
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡]  5%, 4%, 4%  (system)
+[21:20:48] [Craft Scheduler Thread - 6 - spark/INFO]: [⚡]  1%, 1%, 1%  (process)
